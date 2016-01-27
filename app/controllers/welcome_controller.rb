@@ -1,4 +1,8 @@
 class WelcomeController < ApplicationController
-  def index
+  def grid
+  end
+  def mixgrid
+  end
+  def columnreset
   end
 end
